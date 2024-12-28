@@ -1,0 +1,22 @@
+{
+  "item.growable_grass.mycelium_fibre_packet" : "Packet of Mycelium Fibres",
+  "item.growable_grass.mycelium_fibres" : "Mycelium Fibres",
+
+  "item.growable_grass.grass_seed_packet" : "Packet of Grass Seeds",
+  "item.growable_grass.grass_seeds" : "Grass Seeds",
+
+  "item.growable_grass.warped_fibre_packet" : "Packet of Warped Fibres",
+  "item.growable_grass.warped_fibres" : "Warped Fibres",
+
+  "item.growable_grass.crimson_fibre_packet" : "Packet of Crimson Fibres",
+  "item.growable_grass.crimson_fibres" : "Crimson Fibres",
+
+  "item.growable_grass.podzol_fibre_packet" : "Packet of Podzol Fibres",
+  "item.growable_grass.podzol_fibres" : "Podzol Fibres",
+
+  "block.growable_grass.seeded_dirt" : "Seeded Dirt",
+  "block.growable_grass.fibrous_dirt" : "Fibrous Dirt",
+  "block.growable_grass.fibrous_podzol_dirt" : "Fibrous Podzol Dirt",
+  "block.growable_grass.crimson_fibrous_netherrack" : "Fibrous Crimson Netherrack",
+  "block.growable_grass.warped_fibrous_netherrack" : "Fibrous Warped Netherrack"
+}

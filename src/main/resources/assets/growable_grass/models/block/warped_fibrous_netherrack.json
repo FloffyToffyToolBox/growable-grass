@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "growable_grass:block/warped_fibrous_netherrack"
+  }
+}

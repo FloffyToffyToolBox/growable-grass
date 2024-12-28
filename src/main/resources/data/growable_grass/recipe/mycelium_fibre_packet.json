@@ -1,0 +1,20 @@
+{
+"type": "minecraft:crafting_shaped",
+"pattern": [
+"###",
+"###",
+" P "
+],
+"key": {
+  "#": {
+    "item": "growable_grass:mycelium_fibres"
+  },
+  "P": {
+    "item": "minecraft:paper"
+  }
+},
+"result": {
+  "id" : "growable_grass:mycelium_fibre_packet",
+  "count" : 1
+}
+}

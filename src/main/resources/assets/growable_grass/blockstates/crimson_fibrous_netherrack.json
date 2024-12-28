@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "growable_grass:block/crimson_fibrous_netherrack"
+      },
+      {
+        "model": "growable_grass:block/crimson_fibrous_netherrack",
+        "y": 90
+      },
+      {
+        "model": "growable_grass:block/crimson_fibrous_netherrack",
+        "y": 180
+      },
+      {
+        "model": "growable_grass:block/crimson_fibrous_netherrack",
+        "y": 270
+      }
+    ]
+  }
+}

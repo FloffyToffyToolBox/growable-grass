@@ -1,0 +1,21 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "growable_grass:block/fibrous_podzol_dirt"
+      },
+      {
+        "model": "growable_grass:block/fibrous_podzol_dirt",
+        "y": 90
+      },
+      {
+        "model": "growable_grass:block/fibrous_podzol_dirt",
+        "y": 180
+      },
+      {
+        "model": "growable_grass:block/fibrous_podzol_dirt",
+        "y": 270
+      }
+    ]
+  }
+}
